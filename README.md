@@ -1,7 +1,8 @@
 ## Welcome to Guooo Pages
 
-hello world.
-
+```
+System.out.println("Hello World!");
+```
 ### About Me 
 
 Software engineer
