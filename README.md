@@ -7,7 +7,7 @@ System.out.println("Hello World!");
 
 Software engineer
 
-> Adrift in Beijing，living in ChangSha.
+> Studied in NCWU，Adrift in Beijing，living in ChangSha.
 
 
 ### Follow Me
