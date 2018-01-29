@@ -25,3 +25,5 @@ Software engineer
 - [大龄程序员的2017年书单整理](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484420&idx=1&sn=631187ae0191e7e58f41e6f5ab02025c&chksm=96e38e33a194072509c80fe9e9821d5dc6d3f698a9cf712b86e5014321c567be595704e75223&mpshare=1&scene=1&srcid=01072pC5y8aD2EevJlr5GRMa&key=428377c831859f7c95abb3dfb9a3511cc9caa16abb9bbdab1e63af88a5af8c85fe58a11cb210067817e1bef7d89607db112d4e63ddf62d91d41b1e8b317d9e8352f0d273a3d9e33ceb8d198bdef2d4e0&ascene=0&uin=MTUxNjExMDE2MA%3D%3D&devicetype=iMac+MacBookAir6%2C2+OSX+OSX+10.12.1+build(16B2659)&version=11000006&lang=zh_CN&pass_ticket=0kt3WVyTmhoBfoFb69%2FIwlGheV%2Fngy29YMfgyAOPNUvdus2EzEXc7yfzWh%2BLCcyn)
 - [产品需求与项目需求的差异](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484453&idx=1&sn=266847bf1521e9052a3d9f4afe66c90d&chksm=96e38e12a1940704b6f7be6a14821c641441f99493f6dc36fe919c34026e42d84196966b9609#rd)
 - [做了七年软件开发后反而更迷茫](https://mp.weixin.qq.com/s/z_dq_vpOpL3CaE3M6etCJA)
+- [常见Code Review过程中发现的问题一](https://mp.weixin.qq.com/s/YZroEwfQbIdno2eVZgzf5A)
+- [常见Code Review过程中发现的问题二](https://mp.weixin.qq.com/s/G9W4ayi8JpnJS6YeCnq3fw)
