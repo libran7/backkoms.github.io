@@ -27,3 +27,4 @@ Software engineer
 - [做了七年软件开发后反而更迷茫](https://mp.weixin.qq.com/s/z_dq_vpOpL3CaE3M6etCJA)
 - [常见Code Review过程中发现的问题一](https://mp.weixin.qq.com/s/YZroEwfQbIdno2eVZgzf5A)
 - [常见Code Review过程中发现的问题二](https://mp.weixin.qq.com/s/G9W4ayi8JpnJS6YeCnq3fw)
+- [我的2017年度技术回顾](https://mp.weixin.qq.com/s/2ej9tnGo-2RvGDJ6lk4scA)
