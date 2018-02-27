@@ -16,6 +16,8 @@ Software engineer
 ### Cases
 [SpringCloud微服务架构实践项目](https://github.com/backkoms/simplemall)
 
+---
+
 ### Hot Articles
 - [基于SpringCloud的微服务架构实践](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484193&idx=1&sn=287499f10171b28bad78a3c0004a16f7&chksm=96e38916a19400001d669802664e152e77ca32f6b3cbb81d3379ccd105b6ee9ee54e9e538a2a&mpshare=1&scene=1&srcid=0107wZJB6MWCUytWvKM9xQLg&key=34c03f6966d0ec717138c7cb2045c379f84a6c3ca67abae225429d369aec1f1564cb3d19ae7f19a0901b421edf306fc244f6f6056ca2d17b893b532aa138ee4a4ffe2938770531b461e7fe375af9cf96&ascene=0&uin=MTUxNjExMDE2MA%3D%3D&devicetype=iMac+MacBookAir6%2C2+OSX+OSX+10.12.1+build(16B2659)&version=11000006&lang=zh_CN&pass_ticket=0kt3WVyTmhoBfoFb69%2FIwlGheV%2Fngy29YMfgyAOPNUvdus2EzEXc7yfzWh%2BLCcyn)
 - [野蛮生长的前端，从杂牌军到正规军](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484355&idx=1&sn=10f800a64b1c9457d71048938ed38660&chksm=96e389f4a19400e2267bf81fdf8b77858eb2e5465de92bc200079eff6c1b4808fdadb276dfd5&mpshare=1&scene=1&srcid=0107MIyOFZmGg9oMohVsxZDX&key=b3a4ff3742cb6ec0355af9098ef73a5358e01a06e2d2ebefaa4b9926d35210673d8e40b35f399c654517d385208f46c7c2070a7bb6175b4d620a691116031df21984b611f8291599f5043ffdb7a7ee80&ascene=0&uin=MTUxNjExMDE2MA%3D%3D&devicetype=iMac+MacBookAir6%2C2+OSX+OSX+10.12.1+build(16B2659)&version=11000006&lang=zh_CN&pass_ticket=0kt3WVyTmhoBfoFb69%2FIwlGheV%2Fngy29YMfgyAOPNUvdus2EzEXc7yfzWh%2BLCcyn)
@@ -28,6 +30,8 @@ Software engineer
 - [常见Code Review过程中发现的问题一](https://mp.weixin.qq.com/s/YZroEwfQbIdno2eVZgzf5A)
 - [常见Code Review过程中发现的问题二](https://mp.weixin.qq.com/s/G9W4ayi8JpnJS6YeCnq3fw)
 - [我的2017年度技术回顾](https://mp.weixin.qq.com/s/2ej9tnGo-2RvGDJ6lk4scA)
+
+---
 
 ### 职业成长
 - [程序员简历上的那些坑](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484489&idx=1&sn=941e5c66f2b53cd2e01074f5cf6086ab&chksm=96e38e7ea1940768addca9a97439c0ffed7613203ff130b294608819e49469e1a8485c21df5f#rd)
