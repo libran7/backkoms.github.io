@@ -37,4 +37,5 @@ Software engineer
 - [程序员简历上的那些坑](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484489&idx=1&sn=941e5c66f2b53cd2e01074f5cf6086ab&chksm=96e38e7ea1940768addca9a97439c0ffed7613203ff130b294608819e49469e1a8485c21df5f#rd)
 - [那些会阻碍程序员成长的细节[1]](https://mp.weixin.qq.com/s/URvpwQE2sK_UDrfHtvWC8A)
 - [那些会阻碍程序员成长的细节[2]](https://mp.weixin.qq.com/s/1NPaMmEVYYBaKrbbAih0RQ)
+- [那些会阻碍程序员成长的细节[3]](https://mp.weixin.qq.com/s/4jj26NPCIVfMsAY_M7WH_A)
 - [如何从传统软件开发顺利过渡到互联网技术开发](https://mp.weixin.qq.com/s/cYOCjiGH60ZwtmfBA8qgSA)
