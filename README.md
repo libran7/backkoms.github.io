@@ -13,6 +13,7 @@ Software engineer
 ### Follow Me
 
 ![image](https://github.com/backkoms/backkoms.github.io/blob/master/qrcode_for_gh_28fb95c9c24c_258.jpg?raw=true)
+![image](https://github.com/backkoms/backkoms.github.io/blob/master/WechatIMG301.jpeg)
 ### Cases
 [SpringCloud微服务架构实践项目](https://github.com/backkoms/simplemall)
 
@@ -38,4 +39,5 @@ Software engineer
 - [那些会阻碍程序员成长的细节[1]](https://mp.weixin.qq.com/s/URvpwQE2sK_UDrfHtvWC8A)
 - [那些会阻碍程序员成长的细节[2]](https://mp.weixin.qq.com/s/1NPaMmEVYYBaKrbbAih0RQ)
 - [那些会阻碍程序员成长的细节[3]](https://mp.weixin.qq.com/s/4jj26NPCIVfMsAY_M7WH_A)
+- [那些会阻碍程序员成长的细节[4]](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484580&idx=1&sn=f5d109d80860c026593a94f35370aee4&chksm=96e38e93a1940785a52f88e025bc4723e5705d90e3dcf6b4f30a5f4034a88272cfb292bd6977#rd)
 - [如何从传统软件开发顺利过渡到互联网技术开发](https://mp.weixin.qq.com/s/cYOCjiGH60ZwtmfBA8qgSA)
