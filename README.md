@@ -13,7 +13,6 @@ Software engineer
 ### Follow Me
 
 ![image](https://github.com/backkoms/backkoms.github.io/blob/master/qrcode_for_gh_28fb95c9c24c_258.jpg?raw=true)
-![image](https://github.com/backkoms/backkoms.github.io/blob/master/WechatIMG301.jpeg)
 ### Cases
 [SpringCloud微服务架构实践项目](https://github.com/backkoms/simplemall)
 
