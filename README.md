@@ -34,9 +34,13 @@ Software engineer
 ---
 
 ### 职业成长
+- [软技能：代码之外的生存指南](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484599&idx=1&sn=75bbdaa5baabf0b0fc9d5e0eb72d75b6&chksm=96e38e80a1940796412241cf99ade66c5cc37f4ce5189045f7377113d0968bd8893b8cf1890f&scene=21#wechat_redirect)
 - [程序员简历上的那些坑](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484489&idx=1&sn=941e5c66f2b53cd2e01074f5cf6086ab&chksm=96e38e7ea1940768addca9a97439c0ffed7613203ff130b294608819e49469e1a8485c21df5f#rd)
 - [那些会阻碍程序员成长的细节[1]](https://mp.weixin.qq.com/s/URvpwQE2sK_UDrfHtvWC8A)
 - [那些会阻碍程序员成长的细节[2]](https://mp.weixin.qq.com/s/1NPaMmEVYYBaKrbbAih0RQ)
 - [那些会阻碍程序员成长的细节[3]](https://mp.weixin.qq.com/s/4jj26NPCIVfMsAY_M7WH_A)
 - [那些会阻碍程序员成长的细节[4]](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484580&idx=1&sn=f5d109d80860c026593a94f35370aee4&chksm=96e38e93a1940785a52f88e025bc4723e5705d90e3dcf6b4f30a5f4034a88272cfb292bd6977#rd)
+- [那些会阻碍程序员成长的细节[5]](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484589&idx=1&sn=3c804c8547bb653b0afc6193a85a15d5&chksm=96e38e9aa194078c024caa53b4772590bde4082dc8efee930bb6341598da75eaff27bfa1ff48&scene=21#wechat_redirect)
+- [那些会阻碍程序员成长的细节[6]](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484592&idx=1&sn=39f4c67266f66b6a89ac469d115deebf&chksm=96e38e87a194079146efc864b2666d33f491844f04d06955765037e1fdb7c3df93a671e8384a&scene=21#wechat_redirect)
+- [那些会阻碍程序员成长的细节[7]](https://mp.weixin.qq.com/s/A6XYp4r0AvD54-KELiHr3w)
 - [如何从传统软件开发顺利过渡到互联网技术开发](https://mp.weixin.qq.com/s/cYOCjiGH60ZwtmfBA8qgSA)
