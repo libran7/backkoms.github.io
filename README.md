@@ -15,6 +15,8 @@ Software engineer
 ![image](https://github.com/backkoms/backkoms.github.io/blob/master/qrcode_for_gh_28fb95c9c24c_258.jpg?raw=true)
 ### Cases
 [SpringCloud微服务架构实践项目](https://github.com/backkoms/simplemall)
+- [基于SpringCloud的Microservices架构实战案例-序篇](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484193&idx=1&sn=287499f10171b28bad78a3c0004a16f7&chksm=96e38916a19400001d669802664e152e77ca32f6b3cbb81d3379ccd105b6ee9ee54e9e538a2a&scene=21#wechat_redirect)
+- [基于SpringCloud的Microservices架构实战案例-架构拆解](https://mp.weixin.qq.com/s/3D02d8fLNlQIeptMcQQ72g)
 
 ---
 
