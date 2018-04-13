@@ -18,6 +18,7 @@ Software engineer
 - [基于SpringCloud的Microservices架构实战案例-序篇](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484193&idx=1&sn=287499f10171b28bad78a3c0004a16f7&chksm=96e38916a19400001d669802664e152e77ca32f6b3cbb81d3379ccd105b6ee9ee54e9e538a2a&scene=21#wechat_redirect)
 - [基于SpringCloud的Microservices架构实战案例-架构拆解](https://mp.weixin.qq.com/s/3D02d8fLNlQIeptMcQQ72g)
 
+- [基于SpringCloud的Microservices架构实战案例-配置文件属性内容加解密](https://mp.weixin.qq.com/s/sQZ-dGBtvb9Nz-TMOr73vg)
 ---
 
 ### Hot Articles
