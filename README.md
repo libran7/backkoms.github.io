@@ -19,6 +19,8 @@ Software engineer
 - [基于SpringCloud的Microservices架构实战案例-架构拆解](https://mp.weixin.qq.com/s/3D02d8fLNlQIeptMcQQ72g)
 
 - [基于SpringCloud的Microservices架构实战案例-配置文件属性内容加解密](https://mp.weixin.qq.com/s/sQZ-dGBtvb9Nz-TMOr73vg)
+
+- [基于SpringCloud的Microservices架构实战案例-在线API管理](https://mp.weixin.qq.com/s/bV1N8JyafH2jNSHI6-Tbuw)
 ---
 
 ### Hot Articles
@@ -47,3 +49,8 @@ Software engineer
 - [那些会阻碍程序员成长的细节[6]](https://mp.weixin.qq.com/s?__biz=MzIwMjE3MDIwMA==&mid=2247484592&idx=1&sn=39f4c67266f66b6a89ac469d115deebf&chksm=96e38e87a194079146efc864b2666d33f491844f04d06955765037e1fdb7c3df93a671e8384a&scene=21#wechat_redirect)
 - [那些会阻碍程序员成长的细节[7]](https://mp.weixin.qq.com/s/A6XYp4r0AvD54-KELiHr3w)
 - [如何从传统软件开发顺利过渡到互联网技术开发](https://mp.weixin.qq.com/s/cYOCjiGH60ZwtmfBA8qgSA)
+- [他山之石，可以攻玉：从别人的项目中汲取经验](https://mp.weixin.qq.com/s/ArZoEoMyD5VEGl3snVWfGg)
+- [从技术到管理——角色转变](https://mp.weixin.qq.com/s/yGxyKcQ3u2GK5U3nM0IU7A)
+---
+### 技能实战
+- [MYSQL千万级别数据量迁移Elasticsearch5.6.1实战](https://mp.weixin.qq.com/s/FoUTX2jijV7aG_NnTmLfrA)
